@@ -1,10 +1,10 @@
 # Brevitas QAT Quantization Parameters
 # Format: layer_name: scale_value
 
-conv1_scale: 0.00216733
-conv2_scale: 0.00096483
-conv3_scale: 0.00094552
-conv4_scale: 0.00082707
-fc1_scale: 0.00128084
-fc2_scale: 0.00103337
-fc_out_scale: 0.00118488
+conv1_scale: 0.02925268
+conv2_scale: 0.01104123
+conv3_scale: 0.01056456
+conv4_scale: 0.00967805
+fc1_scale: 0.01669547
+fc2_scale: 0.01096124
+fc_out_scale: 0.02092856
